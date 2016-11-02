@@ -1,3 +1,4 @@
 - reverse.go定义的是将字符串反向的方法
 - reverse_test.go是测试用例
+- go test practice/pgk/stringutil
 - 使用go install生成stringutil.a
